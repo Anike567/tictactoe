@@ -215,3 +215,17 @@ body{
 	height:67px;
 	width:102px
 }
+@media screen and (max-width:500px) {
+    .column1 {
+        width: 98%;
+        height: 4px;
+        margin: 60% 4px;
+    }
+
+    .column2 {
+        width: 98%;
+        height: 4px;
+        margin: 60% 4px;
+    }
+
+}
